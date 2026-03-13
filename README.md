@@ -35,7 +35,7 @@ This project manages student records, forms balanced groups, ranks students, and
 
 3. Run:
 
-   python main.py
+   main.py
 
 ---
 
